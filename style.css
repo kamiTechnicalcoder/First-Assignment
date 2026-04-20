@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+#container h1 {
+  color: blue;
+  font: 2em sans-serif;
+  font-weight: 700;
+}
+
+#container button {
+  color: #fff;
+  font: 2em sans-serif;
+  font-size: 18px;
+  background-color: blue;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 20px 15px 20px 15px;
+  margin-top: 30px;
+
+}
+
